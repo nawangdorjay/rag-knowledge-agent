@@ -1,5 +1,7 @@
 # 📚 RAG Knowledge Agent
 
+![Screenshot](screenshots/output.png)
+
 A Retrieval-Augmented Generation agent that answers questions using your own data — not the LLM's training data. Answers are grounded, accurate, and verifiable.
 
 Built by [Nawang Dorjay](https://github.com/nawangdorjay) — for **GSSoC 2026**.
