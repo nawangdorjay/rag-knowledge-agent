@@ -1,0 +1,66 @@
+{
+  "rice": {
+    "name": "Rice (चावल)",
+    "seasons": "Kharif (Jun-Nov). Rabi in some South Indian regions.",
+    "soil": "Clayey loam, alluvial soil. pH 5.5-7.0. Needs water-retentive soil.",
+    "water": "High. 1200-1800mm rainfall. Requires standing water during most stages.",
+    "temperature": "20-35°C ideal. Frost sensitive.",
+    "varieties": "North: PB 1509, Pusa Basmati 1121, PR 126. South: BPT 5204, Swarna. East: Swarna-Sub1, Sahbhagi Dhan.",
+    "sowing": "June-July (Kharif). Nov-Dec (Rabi in South).",
+    "harvest": "October-November (Kharif). April-May (Rabi).",
+    "yield": "2.5-4 tonnes/hectare.",
+    "tips": "Use certified seeds 40-50 kg/ha. Transplant 25-day seedlings. Apply nitrogen in 3 splits: basal, tillering, panicle initiation. SRI method: single seedling, wider spacing.",
+    "common_pests": "Brown Planthopper (hopper burn, spray Imidacloprid). Blast (diamond lesions, spray Tricyclazole). Sheath Blight (oval spots, spray Validamycin).",
+    "msp": "₹2,183 per quintal (2025-26)."
+  },
+  "wheat": {
+    "name": "Wheat (गेहूं)",
+    "seasons": "Rabi (Oct-Mar). Sown after rice harvest.",
+    "soil": "Loam to clay loam. Well-drained. pH 6.0-7.5.",
+    "water": "Moderate. 4-6 irrigations. Critical at CRI (21 days), tillering, flowering.",
+    "temperature": "20-25°C during growth. Cool during grain filling.",
+    "varieties": "HD 3226, WH 147, DBW 187, PBW 725, HD 3086.",
+    "sowing": "October-November. Optimal: mid-November. Each week delay after Nov 15 loses ~50 kg/ha.",
+    "harvest": "March-April.",
+    "yield": "3-5 tonnes/hectare.",
+    "tips": "Seed rate: 100 kg/ha normal, 125 kg/ha late sowing. First irrigation at 21 days (CRI stage) critical. Apply 1/3 N + full P&K basal. Remaining N in 2 splits.",
+    "common_pests": "Rust (yellow/brown/black pustules, spray Propiconazole). Aphids (green insects on ears, spray Dimethoate).",
+    "msp": "₹2,275 per quintal (2025-26)."
+  },
+  "cotton": {
+    "name": "Cotton (कपास)",
+    "seasons": "Kharif (Apr-Oct).",
+    "soil": "Black soil (regur), alluvial. Well-drained. pH 6.0-8.0.",
+    "water": "Moderate. 600-1000mm. Drip saves 40-50%.",
+    "temperature": "25-35°C. Needs 160-200 frost-free days.",
+    "sowing": "April-May (North). June-July (South/Central).",
+    "harvest": "October-December (multiple pickings).",
+    "yield": "1.5-2.5 quintals/hectare (lint).",
+    "tips": "90x45 cm spacing for Bt hybrids. Apply 120:60:60 NPK/ha. Intercrop with short-duration pulses. Pick in morning when bolls fully open.",
+    "common_pests": "Bollworm (holes in bolls, spray Chlorantraniliprole). Whitefly (white flies under leaves, spray Thiamethoxam).",
+    "msp": "₹7,121 per quintal (medium staple, 2025-26)."
+  },
+  "tomato": {
+    "name": "Tomato (टमाटर)",
+    "seasons": "Year-round varies. Kharif Jun-Jul, Rabi Oct-Nov, Spring Jan-Feb.",
+    "soil": "Well-drained sandy loam to clay. pH 6.0-7.0.",
+    "water": "Moderate. Drip recommended. Avoid waterlogging.",
+    "temperature": "20-30°C. No fruit set above 40°C or below 10°C.",
+    "sowing": "Transplant 25-30 day seedlings.",
+    "harvest": "60-90 days after transplanting.",
+    "yield": "25-40 tonnes/hectare.",
+    "tips": "Staking increases yield 20-30%. Calcium spray prevents blossom end rot. Harvest at breaker stage for transport. Rotate with non-solanaceous crops.",
+    "common_pests": "Early Blight (concentric ring spots, spray Mancozeb). Late Blight (water-soaked patches, spray Metalaxyl). Fruit Borer (holes in fruit, spray Emamectin)."
+  },
+  "maize": {
+    "name": "Maize (मक्का)",
+    "seasons": "Kharif (Jun-Sep), Rabi (Oct-Feb), Spring (Jan-Apr).",
+    "soil": "Well-drained loam to sandy loam. pH 5.8-8.0.",
+    "water": "Moderate. Critical at tasseling and grain filling.",
+    "sowing": "June-July (Kharif), October (Rabi).",
+    "harvest": "Sep-Oct (Kharif), Feb-Mar (Rabi).",
+    "yield": "3-6 tonnes/hectare.",
+    "tips": "Seed rate 20-25 kg/ha. Row spacing 60x20 cm. Earthing up at 30-35 days prevents lodging. Dry grains to 12-14% for safe storage.",
+    "msp": "₹2,225 per quintal (2025-26)."
+  }
+}

@@ -1,0 +1,53 @@
+{
+  "pm_kisan": {
+    "name": "PM-KISAN (Pradhan Mantri Kisan Samman Nidhi)",
+    "benefit": "₹6,000 per year in 3 installments of ₹2,000. Direct bank transfer.",
+    "eligibility": "All farmer families with cultivable land. Up to 2 hectares in most states.",
+    "exclusions": "Institutional land holders. Professionals (doctors, engineers, CAs, lawyers). Pensioners above ₹10,000/month. Income tax payers.",
+    "how_to_apply": "pmkisan.gov.in → New Farmer Registration. Or visit CSC centre. Or contact local Patwari/Lekhpal.",
+    "documents": "Aadhaar, bank account linked to Aadhaar, land ownership documents (Khata/Khatauni).",
+    "helpline": "155261 or 011-24300606."
+  },
+  "pmfby": {
+    "name": "Pradhan Mantri Fasal Bima Yojana (PMFBY)",
+    "benefit": "Crop insurance. Farmer pays only 1.5-5% of sum insured. Rest shared by Centre and State.",
+    "eligibility": "All farmers growing notified crops in notified areas. Both loanee and non-loanee.",
+    "how_to_apply": "Loanee farmers: automatic through bank during loan. Non-loanee: CSC or insurance company portal or pmfby.gov.in.",
+    "documents": "Aadhaar, land records, bank account, sowing certificate (non-loanee).",
+    "coverage": "Yield loss due to natural calamities, pests, diseases. Also covers prevented sowing and post-harvest losses.",
+    "helpline": "14447."
+  },
+  "kcc": {
+    "name": "Kisan Credit Card (KCC)",
+    "benefit": "Low-interest credit for farming. Interest subvention 2%. Effective rate 4% per annum for timely repayment.",
+    "eligibility": "All farmers — individual, joint, tenant farmers, sharecroppers, oral lessees, SHGs.",
+    "how_to_apply": "Any nationalized bank, cooperative bank, or RRB. Need land records, Aadhaar, passport photo.",
+    "credit_limit": "Based on land holding. Typically ₹50,000 to ₹3 lakh+.",
+    "also_for": "KCC also available for fishermen and animal husbandry at 4% interest."
+  },
+  "ayushman": {
+    "name": "Ayushman Bharat — PM-JAY",
+    "benefit": "Free hospital treatment up to ₹5 lakh per family per year. Covers 1,900+ procedures.",
+    "eligibility": "Families identified from SECC 2011 data. Check at mera.pmjay.gov.in or call 14555.",
+    "how_to_apply": "No enrollment needed if eligible. Get Ayushman Card at CSC or empanelled hospital. Show card + Aadhaar.",
+    "covers": "Secondary and tertiary hospitalization — surgery, cancer treatment, heart procedures, etc.",
+    "helpline": "14555.",
+    "no_cap": "No cap on family size, age, or pre-existing conditions."
+  },
+  "mgnrega": {
+    "name": "MGNREGA (Mahatma Gandhi National Rural Employment Guarantee Act)",
+    "benefit": "Guaranteed 100 days of wage employment per year. Minimum wage as per state rate (₹250-350/day).",
+    "eligibility": "Any adult member of rural household willing to do unskilled manual work.",
+    "how_to_apply": "Visit Gram Panchayat → apply for job card → demand work → must be provided within 15 days or get unemployment allowance.",
+    "documents": "Aadhaar, job card (issued by Gram Panchayat), bank or post office account.",
+    "key_rights": "Work must start within 15 days of demand. If not, unemployment allowance = 1/4 of wage for first 30 days, 1/2 thereafter. Work site must be within 5 km of village.",
+    "helpline": "1800-345-6789 toll-free."
+  },
+  "mudra": {
+    "name": "Pradhan Mantri Mudra Yojana (PMMY)",
+    "benefit": "Collateral-free loans for micro/small enterprises. Shishu: up to ₹50,000. Kishore: up to ₹5 lakh. Tarun: up to ₹10 lakh.",
+    "eligibility": "Any Indian citizen with business plan for non-farm income-generating activity.",
+    "how_to_apply": "Any bank, NBFC, or MFI. Also mudra.org.in.",
+    "documents": "Aadhaar, PAN, business plan, address proof, passport photo."
+  }
+}
